@@ -1,2 +1,2 @@
 # RGofUr
-Royal Game of Ur társasjáték cpu játékossal C++ nyelven valószínűleg SDL2 -vel
+Royal Game of Ur társasjáték cpu játékossal C++ nyelve SDL2 -vel
